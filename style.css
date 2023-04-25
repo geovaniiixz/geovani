@@ -1,0 +1,48 @@
+header {
+	background-color: #000000;
+	color: #8f10af;
+	padding: 15px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+header h1 {
+	margin: 0;
+}
+
+nav ul {
+	margin: 0;
+	padding: 0;
+	display: flex;
+}
+
+nav li {
+	list-style: none;
+	margin-right: 20px;
+}
+
+nav li a {
+	color: #8f10af;
+	text-decoration: none;
+}
+
+nav li a:hover {
+	color: #af107a;
+}
+
+footer {
+	background-color: #000000;
+	color: #8f10af;
+	padding: 20px;
+	text-align: center;
+}
+
+footer a {
+	color: #8f10af;
+	text-decoration: none;
+}
+
+footer a:hover {
+	color: #af1010;
+}
